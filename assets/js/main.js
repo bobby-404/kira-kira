@@ -17643,7 +17643,7 @@ return Popper;
 
 }));
 //# sourceMappingURL=bootstrap.js.map
-"use strict";
+
 
 $(document).ready(function() {
     //removeIf(production)
@@ -17657,7 +17657,6 @@ $(document).ready(function() {
         $(".search-multiply").toggle();
     });
 });
-
 
 
 //# sourceMappingURL=main.js.map
